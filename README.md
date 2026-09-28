@@ -113,7 +113,7 @@ All analyses were completed using R. See manuscript for details about analyses.
 
 This repository contains the data and code used in the following manuscript/publication:
 
-Griebel, I. G., A. Butler, C. L. Waldrep, J. M. COluccy, N. R. Huck, J. N. Straub, M. D. Weegman, J. C. Stiller. (submitted). A simple but effective method for identifying incubation in real time for waterfowl with backpack transmitters. 
+Griebel, I. G., A. Butler, C. L. Waldrep, J. M. COluccy, N. R. Huck, J. N. Straub, M. D. Weegman, J. C. Stiller. (2026). A simple but effective method for identifying incubation in real time for waterfowl with backpack transmitters. Ibis. 
 
 Data and Code DOI: [10.5281/zenodo.22091040](https://doi.org/10.5281/zenodo.22091040)
 
