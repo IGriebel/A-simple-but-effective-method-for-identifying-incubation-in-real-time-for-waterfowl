@@ -1,6 +1,6 @@
 # A simple but effective method for identifying incubation in real time for waterfowl with backpack transmitters
 
-Dataset DOI: [10.5281/zenodo.22091040](https://doi.org/10.5281/zenodo.22091040)
+Dataset DOI: [10.5281/zenodo.23022991](https://doi.org/10.5281/zenodo.23022991)
 
 ## Description of the data and file structure
 
@@ -115,6 +115,6 @@ This repository contains the data and code used in the following publication:
 
 Griebel, I. G., A. Butler, C. L. Waldrep, J. M. COluccy, N. R. Huck, J. N. Straub, M. D. Weegman, J. C. Stiller. (2026). A simple but effective method for identifying incubation in real time for waterfowl with backpack transmitters. Ibis. 10.1111/ibi.70135 
 
-Data and Code DOI: [10.5281/zenodo.22091040](https://doi.org/10.5281/zenodo.22091040)
+Data and Code DOI: [10.5281/zenodo.23022991](https://doi.org/10.5281/zenodo.23022991)
 
 Please contact the corresponding author with questions about this data package or to seek potential collaborations using these data.
